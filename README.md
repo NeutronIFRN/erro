@@ -1,2 +1,2 @@
 # Uma Vez Flamengo, Sempre Flamengo!
-![Flamego](https://github.com/user-attachments/assets/2d47447a-ae12-4a76-ba4b-7e17f9c67b0e)
+<img src="https://i.pinimg.com/originals/78/c4/f8/78c4f89b9dced3b80ad985292bc053cc.jpg" alt="Logotipo do GitHub">
